@@ -25,8 +25,7 @@ I am a 3rd year Computer Science Student at the University of Nottingham. I have
 - General university advice :)
 
 📫 How to reach me:
-On most social media platforms, my handle is @demiaoshin.
-I respond faster on Discord: demi#2997
+I'm active on Twitter @demithetechie. I respond faster on Discord: demi#2997
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demiaoshin&show_icons=true&theme=cobalt)
 
