@@ -5,11 +5,7 @@
 I am a 3rd year Computer Science Student at the University of Nottingham. I have a lot of interests within technology, and they often change every few months. Right now, I'm obsessed with iOS Development.
 
 🔭 I’m currently working on:
-- A mobile app project 
-  - Working with a friend to build a cross-platform mobile application
-  - Currently in the design phase :)
-- A discord bot
-  - Working on a discord registration bot that will verify 1st year students onto the UoN server 
+- Mostly uni work, but I'm building a software system for my dissertation
  
 🌱 I’m currently learning:
 - iOS Development
