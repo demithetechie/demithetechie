@@ -23,7 +23,7 @@ I am a 3rd year Computer Science Student at the University of Nottingham. I have
 📫 How to reach me:
 I'm active on Twitter @demithetechie. I respond faster on Discord: demi#2997
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demiaoshin&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demithetechie&show_icons=true&theme=cobalt)
 
 <!--
 **demiaoshin/demiaoshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
