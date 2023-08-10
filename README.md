@@ -2,10 +2,11 @@
 
 😄 Pronouns: she/her
 
-I am a 3rd year Computer Science Student at the University of Nottingham. I have a lot of interests within technology, and they often change every few months. Right now, I'm obsessed with iOS Development.
+I am a postgrad Computer Science Student at the University of Nottingham. I have a lot of interests in technology, and they often change every few months. Right now, I'm obsessed with Data Science.
 
 🔭 I’m currently working on:
-- Mostly uni work, but I'm building a software system for my dissertation
+- Uni work LOL
+- Rebuilding my personal website
  
 🌱 I’m currently learning:
 - iOS Development
@@ -21,7 +22,7 @@ I am a 3rd year Computer Science Student at the University of Nottingham. I have
 - General university advice :)
 
 📫 How to reach me:
-I'm active on Twitter @demithetechie. I respond faster on Discord: demi#2997
+I'm active on Twitter @demithetechie. I respond faster on Discord: demiao
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demithetechie&show_icons=true&theme=cobalt)
 
