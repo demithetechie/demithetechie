@@ -2,16 +2,18 @@
 
 😄 Pronouns: she/her
 
-I am a postgrad Computer Science Student at the University of Nottingham. I have a lot of interests in technology, and they often change every few months. Right now, I'm obsessed with Data Science.
+I am a postgrad Computer Science Student at the University of Nottingham. I have a lot of interests in technology, and they often change every few months. Right now, I'm obsessed with Data Science and ML. 
 
 🔭 I’m currently working on:
+- Meloventure: a web app designed to collate musical insights about a given genre. 
 - Uni work LOL
-- Rebuilding my personal website
+- Going crazy on X @demithetechie
  
 🌱 I’m currently learning:
-- iOS Development
-  - Doing a Udemy course on iOS Development
-  - Learning how SwiftUI works 
+- MERN
+  - Building a few projects with the MERN stack
+- Machine learning
+  - Building ML models with Python
   
 ⚡ 2 fun facts: 
 - I interned at Google as a STEP Intern in 2021 💻
