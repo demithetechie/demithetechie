@@ -5,9 +5,7 @@
 I am a postgrad Computer Science Student at the University of Nottingham. I have a lot of interests in technology, and they often change every few months. Right now, I'm obsessed with Data Science and ML. 
 
 🔭 I’m currently working on:
-- Meloventure: a web app designed to collate musical insights about a given genre. 
-- Uni work LOL
-- Going crazy on X @demithetechie
+- Uni work lol
  
 🌱 I’m currently learning:
 - MERN
