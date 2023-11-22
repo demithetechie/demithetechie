@@ -2,16 +2,21 @@
 
 😄 Pronouns: she/her
 
-I am a postgrad Computer Science Student at the University of Nottingham. I have a lot of interests in technology, and they often change every few months. Right now, I'm obsessed with Data Science and ML. 
+I am a Master's (4th year) Computer Science Student at the University of Nottingham. I'm passionate about the intersection of data science, music theory and computer science. 
 
 🔭 I’m currently working on:
-- Uni work lol
- 
+- 🌳 **Sounding Climate Change:** Exploring how climate change data could be used to inform musical insights and ideas for climate-related concepts. I'm building a tool to transform climate change data into musical motifs and phrases. This tool will become another interface for musical expression.
+- 🏥 **Breast Cancer ML Study:** Exploring a Breast Cancer dataset to perform regression on response-free survival (RFS), and binary classification on pathological complete response (pCR). Using Python libraries such as pandas, numpy, seaborn and skit-learn and working in a group of 5 people.
+- 👩🏾‍💻 **Ovn. Tinder for recipes:** To learn more about software quality assurance, we are building a recipe dating app that will match individuals based on what recipes they like, as well as their looks. The app frontend is a native Android application with Java, the backend is NodeJS with TypeScript.
+
 🌱 I’m currently learning:
-- MERN
-  - Building a few projects with the MERN stack
-- Machine learning
-  - Building ML models with Python
+- 📈 **Linear Programming:** Learning how to apply linear programming principles to solve LP problems in different contexts and situations. Prepping for a coursework that will involve solving a large-scale LP problem.
+- 🔬 **Research in CS:** Building myself up to become a well-rounded researcher in the field of computer science.
+
+👩🏾‍💻 Favourite coding languages:
+- Python (obviously)
+- Kotlin
+- Swift
   
 ⚡ 2 fun facts: 
 - I interned at Google as a STEP Intern in 2021 💻
@@ -22,7 +27,7 @@ I am a postgrad Computer Science Student at the University of Nottingham. I have
 - General university advice :)
 
 📫 How to reach me:
-I'm active on Twitter @demithetechie. I respond faster on Discord: demiao
+I'm active on Twitter @demiaoshin. I respond faster on Discord: demiao
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=demithetechie&show_icons=true&theme=cobalt)
 
