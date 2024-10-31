@@ -24,7 +24,7 @@ I am a 1st year PhD student in Hearing Sciences at the University of Nottingham.
 - Kotlin
 - Swift
   
-⚡ 2 fun facts: 
+⚡ 3 fun facts: 
 - I interned at Google as a STEP Intern in 2021 💻
 - I'm a musician (I play piano, violin, ukulele and I sing) 🎶
 - I have perfect pitch!
