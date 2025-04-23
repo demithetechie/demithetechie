@@ -7,18 +7,18 @@ _Updated: 1st April 2025 13:39 GMT+1_
 I am a 1st year PhD student in Hearing Sciences at the University of Nottingham. My thesis explores building scalable technologies to foster safe listening in music venues.
 
 🔭 I’m currently working on:
-- 📈 **dB SPL:** A common data model for structuring and organising amplified sound data. Getting this to a finishing point!
-- ✍🏾 **PhDemi:** Started a blog to document my PhD journey, [check it out here](https://www.phdemi.com)
+- 📈 **dB SPL:** [A common data model for structuring and organising amplified sound data.](https://github.com/demithetechie/dbspl-public)
+- ✍🏾 **PhDemi:** [A blog to document my PhD journey](https://www.phdemi.com)
 
-👩🏾‍💻 My previous projects include:
+👩🏾‍💻 My previous projects:
 - 🌳 **Sounding Climate Change:** I explored how climate change data could be used to inform musical insights and ideas for climate-related concepts. I built a tool, ClimaTunes, to transform climate change data into musical motifs and phrases. This tool will become another interface for musical expression.
 - 🏥 **Breast Cancer ML Study:** I explored a Breast Cancer dataset to perform regression on response-free survival (RFS), and binary classification on pathological complete response (pCR). Using Python libraries such as pandas, numpy, seaborn and skit-learn and working in a group of 5 people.
-- 👩🏾‍💻 **Ovn. Tinder for recipes:** To learn more about software quality assurance, we built a recipe dating app that will match individuals based on what recipes they like, as well as their looks. The app frontend is a native Android application with Java, the backend is NodeJS with TypeScript.
+- 👩🏾‍💻 **Ovn. Tinder for recipes:** To learn more about software quality assurance, we built a recipe dating app that will match individuals based on what recipes they like. The app frontend is a native Android application with Java, the backend is NodeJS with TypeScript.
 
 🌱 I’m currently learning:
-- How to write academically
-- How to write colloquially
-- How to cite papers
+- Flutter: Building an local offline recipe app 🍜
+- SQL and databases
+- Academic writing ✍🏾
 
 👩🏾‍💻 Favourite coding languages:
 - Python
@@ -29,7 +29,7 @@ I am a 1st year PhD student in Hearing Sciences at the University of Nottingham.
 - I interned at Google as a STEP Intern in 2021 💻
 - I'm a musician (I play piano, violin, ukulele and I sing) 🎶
 - I have perfect pitch!
-- I'm currently part of a musical theatre group performing HMS Pinafore!
+- I'm currently part of a musical theatre group performing HMS Pinafore in June 2025!
   
 💬 Ask me about:
 - PhD advice
